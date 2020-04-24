@@ -14,9 +14,7 @@ copy the sql file and open it on mysql workbench
 
 ### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+some queries are given in order to know and manipulate the database more.
 
 ### Who do I talk to? ###
 
